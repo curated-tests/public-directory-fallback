@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "mkdir public && echo 'I am public' > public/index.html"
+  }
+}
